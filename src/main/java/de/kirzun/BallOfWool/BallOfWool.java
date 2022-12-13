@@ -13,6 +13,7 @@ import org.slf4j.Logger;
 public class BallOfWool {
 // Change
     //new line
+    //new
 
     public static final String MOD_ID = "ballofwool";
  final Logger LOGGER = LogUtils.getLogger();
